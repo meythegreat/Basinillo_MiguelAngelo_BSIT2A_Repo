@@ -29,8 +29,8 @@ var theArea = calculateArea(radius);
 console.log("The area is: " + theArea)
 
 function printName(firstName, lastName) {
-    var fullNamed = firstName + ' ' + lastName;
-    return fullNamed
+    var fullName = firstName + ' ' + lastName;
+    return fullName
 }
 
 console.log('My full name is ' + printName('Miguel Angelo', 'Basinillo'))
